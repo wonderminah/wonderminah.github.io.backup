@@ -31,5 +31,4 @@ https://atom.io/packages/linter-eslint
 # 참고자료
 
 * [Eslintで構文チェック](https://www.udemy.com/course/react-native-ios-android/learn/lecture/8436162#overview)
-
 * [Eslintの設定を変更する](https://www.udemy.com/course/react-native-ios-android/learn/lecture/8436168#overview)
