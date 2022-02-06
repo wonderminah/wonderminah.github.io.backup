@@ -49,5 +49,5 @@ _includes 아래의 [analytics.html](https://github.com/mmistakes/minimal-mistak
 
 추적된 내용을 애널리틱스 보고서에서 확인 가능하다.
 
-![image-20220207084317223](/Users/minah.kim/Library/Application Support/typora-user-images/image-20220207084317223.png)
+![image-20220207084317223](https://wonderminah.github.io/assets/img/image-20220207084317223.png)
 
